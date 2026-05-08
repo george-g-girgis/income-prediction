@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Content
 
 - [Overview](#-overview)
 - [Dataset](#-dataset)

@@ -1,4 +1,4 @@
-# 💰 Income Classification — Census Income Prediction
+# 💰 Income Classification — Income Prediction
 
 > A complete machine learning pipeline that predicts whether a person's annual income exceeds **$50K** based on U.S. Census data. Built with **scikit-learn**, featuring four classification models, hyperparameter tuning, and rich EDA visualizations.
 

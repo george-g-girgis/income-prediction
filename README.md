@@ -195,10 +195,15 @@ INCOME/
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install numpy pandas matplotlib seaborn scikit-learn imblearn
    ```
+   OR
+      ```bash
+   pip install --upgrade numpy pandas matplotlib seaborn scikit-learn imblearn
+   ```
+      If you have it but as an outdated versions!!
 
-4. **Run the pipeline**
+5. **Run the pipeline**
    ```bash
    python main.py
    ```
